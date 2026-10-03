@@ -23,6 +23,6 @@
 
 Файлы
 
-`*.ipynb` — Jupyter Notebook с исследованием и анализом данных.
+[Japan's_vending_machines.ipynb](https://github.com/Daruda-Ekaterina/Projects/blob/main/japan_vending_analysis/Japan's_vending_machines.ipynb) — Jupyter Notebook с исследованием и анализом данных.
 
 `README.md` — описание проекта.
